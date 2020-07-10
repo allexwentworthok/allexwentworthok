@@ -9,7 +9,7 @@ I like to develop apps in React Native and create great web apps with Angular an
 
 I'm an aspiring data scientist with python 🐍
  
-- 🔭 I’m currently working on Secrects Projects
+- 🔭 I’m currently working at Secrects Projects
 - 🌱 I’m currently learning Python, R, and more of Javascript
 - 👯 I’m looking to collaborate with great friends
 - 💬 Ask me about on my mail 
