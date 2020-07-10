@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**allexwentworthok/allexwentworthok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋,
 
-Here are some ideas to get you started:
+I´m Frontend developer and
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CEO/Founder of [wentapps.com](wentapps.com) 
+
+I like to develop apps in React Native and create great web apps with Angular and ReactJS.
+
+I'm an aspiring data scientist with python 🐍
+ 
+- 🔭 I’m currently working on Secrects Projects
+- 🌱 I’m currently learning Python, R, and more of Javascript
+- 👯 I’m looking to collaborate on a great friends
+- 💬 Ask me about on my mail 
+- 📫 How to reach me: alebogado.dev@gmail.com
+- 😄 Pronouns: Ale Bogado
+- ⚡ Fun fact: I usually do electronic songs when I'm done working .
+
