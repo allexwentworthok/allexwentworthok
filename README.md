@@ -11,7 +11,7 @@ I'm an aspiring data scientist with python 🐍
  
 - 🔭 I’m currently working on Secrects Projects
 - 🌱 I’m currently learning Python, R, and more of Javascript
-- 👯 I’m looking to collaborate on a great friends
+- 👯 I’m looking to collaborate with great friends
 - 💬 Ask me about on my mail 
 - 📫 How to reach me: alebogado.dev@gmail.com
 - 😄 Pronouns: Ale Bogado
