@@ -3,7 +3,7 @@ Hey there 👋,
 
 I´m Frontend developer and
 
-CEO/Founder of [wentapps.com](wentapps.com) 
+CEO/Founder of [wentapps.com]
 
 I like to develop apps in React Native and create great web apps with Angular and ReactJS.
 
