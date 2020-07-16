@@ -1,9 +1,9 @@
 
-Hey there 👋,
+Hi, I'm Ale 👋,
 
 I´m Frontend developer and
 
-CEO/Founder of [wentapps.com]
+CEO/Founder of WentApps
 
 I like to develop apps in React Native and create great web apps with Angular and ReactJS.
 
