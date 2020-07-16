@@ -3,7 +3,7 @@ Hi, I'm Ale 👋,
 
 I´m Frontend developer and
 
-![alt text](https://github.com/allexwentworthok/allexwentworthok/blob/master/Personal-Banner.png)
+![alt text](https://github.com/allexwentworthok/allexwentworthok/blob/master/Personal-Banner-small.png)
 
 
 CEO/Founder of WentApps
