@@ -2,7 +2,7 @@
 Hi, I'm Ale 👋,
 
 I´m Frontend developer and
-CEO/Founder of WentApps
+MERN & MEAN 
 
 I like to develop apps in React Native and create great web apps with Angular and ReactJS.
 
