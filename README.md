@@ -1,7 +1,7 @@
 
 ### Hi, I'm Ale 👋,
 
-I´m Frontend developer and MERN / MEAN
+![alt text](https://github.com/allexwentworthok/allexwentworthok/blob/master/fondo.png)
 
 
 I like to develop apps in React Native and create great web apps with Angular and ReactJS.
