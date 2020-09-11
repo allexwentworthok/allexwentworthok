@@ -1,7 +1,8 @@
 
 ### Hi, I'm Ale 👋,
 
-![alt text](https://github.com/allexwentworthok/allexwentworthok/blob/master/fondo.png)
+
+<img src="https://github.com/allexwentworthok/allexwentworthok/blob/master/fondo.croped.png" alt="banner that says Ale Bogado - software engineer, content creator and community organizer alongside a cartoon illustration of Allex">
 
 
 I like to develop apps in React Native and create great web apps with Angular and ReactJS.
