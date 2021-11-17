@@ -10,6 +10,5 @@ I'm an aspiring data scientist with python 🐍
 - 👯 I’m looking to collaborate with great friends
 - 💬 Ask me about on my mail 
 - 📫 How to reach me: alebogado.dev@gmail.com
-- 😄 Pronouns: Ale Bogado
 - ⚡ Fun fact: I usually do electronic songs when I'm done working .
 
