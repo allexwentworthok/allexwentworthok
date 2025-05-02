@@ -1,9 +1,14 @@
-I’m Tech Lead at @UenoBank and CTO/Co-Founder at @KapyPay — focused on React Native, Next.js, Python & Rust. Advocate for AI, fintech innovation, and social impact through tech. 
+CTO/Co-Founder at [@KapyPay](https://kapypay.com) — focused on **React Native**, **Next.js**, **Python**, and **Rust**. I advocate for AI, fintech innovation, and creating social impact through technology.
 
-Currently building [MentiraElectoral.org](https://mentiraelectoral.org) to fight outdated voting systems like the Ley de Lemas in Argentina.  
+Currently building **[MentiraElectoral.org](https://mentiraelectoral.org)** to fight outdated voting systems like the *Ley de Lemas* in Argentina.
 
-Previously at Personal Pay. Passionate about deep learning, data science, and minimalist living.  
+Previously at **Personal Pay**. Passionate about **deep learning**, **data science**, and **minimalist living**.
 
-🎹 After hours: composing electronic music & running long distances.  
-📫 Contact: alebogado.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/alejandro-bogado/) | [GitHub](https://github.com/alebogado)  
-🔐 GPG: `6670 6648 9FD7 59DA 3F6D 2091 5510 5C31 FD`
+### 🔐 Identity Verification
+
+- **Name:** Alejandro Bogado  
+- **Email:** [alebogado.dev@gmail.com](mailto:alebogado.dev@gmail.com)  
+- **GPG Public Key:** [View on GitHub](https://github.com/allexwentworthok.gpg)  
+- **Fingerprint:** `421A E4EB 75AA B5F0 92ED  CE70 FC70 7CDA F09B A4DE`  
+- **Commits signed with YubiKey + GPG.**  
+- [Verify this identity](https://github.com/allexwentworthok.gpg) if needed via GPG signature.
